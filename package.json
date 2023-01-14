@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@iconify/json": "^2.1.118",
-    "@types/fs-extra": "^9.0.13",
+    "@types/fs-extra": "^11.0.1",
     "@typescript-eslint/eslint-plugin": "^5.39.0",
     "@typescript-eslint/parser": "^5.39.0",
     "@vitejs/plugin-vue": "^3.0.1",
